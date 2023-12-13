@@ -1,0 +1,83 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #d5cbcd;
+}
+.container{
+    width: 100%;
+    height: 100px;
+    background-color: #9747ff;
+}
+/* .container-elements{ */
+    /* border: 2px solid blue;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    height: 60vh;
+    width: 50%;
+} */
+.sidebar{
+    height: 700px;
+    width: 270px;
+    margin-left: 200px;
+    background-color: #a86af2;
+}
+.container-Div-One{
+    justify-content: end;
+    display: flex;
+    margin-left: 290px;
+    width: 1400px;
+    background-color: #f1dbff;
+}
+.div-One{
+    height: 300px;
+    width: 1500px;
+}
+.container-Div-two{
+    display: flex;
+    margin-left: 290px;
+    margin-top: 8px;
+    width: 1400px;
+    gap: 11px;
+}
+.container-two{
+    width: 700px;
+    height: 320px;
+    background-color: #f1dbff;
+}
+.container-tree{
+    width: 700px;
+    height: 320px;
+    background-color: #f1dbff;
+}
+.container-icons{
+    justify-content: space-around;
+    display: flex;
+    margin-left: 290px;
+    width: 1400px;
+    height: 70px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: #ffff;
+}
+.div-icons{
+    display: flex;
+    justify-content: space-around;
+    width: 1500px;
+    margin-top: 19px;
+    padding-bottom: 10px;
+}
+.bi-hand-thumbs-up{
+    font-size: 22px;
+}
+.bi-chat-left-text{
+    font-size: 22px;
+}
+.bi-share{
+    font-size: 22px;
+}
+span{
+    font-size: 22px;
+    font-weight: 900;
+    padding: 10px;
+}

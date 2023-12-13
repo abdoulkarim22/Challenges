@@ -1,0 +1,124 @@
+body{
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+.contenu{
+    width: 900px;
+    height: 800px;
+}
+.calendrier{
+    height: 140px;
+    margin-bottom: 2px;
+}
+.tache-1{
+   border: 1px solid forestgreen;
+   width: 700px;
+   height: 50px;
+   margin: 15px;
+   border-radius: 10px;
+   background-color: #d9d9d9;
+   display: flex;
+   justify-content: space-between;
+   padding: 10px;
+}
+.tache-2{
+  border: 1px solid forestgreen;
+  width: 700px;
+  height: 50px;  
+  margin: 15px;
+  border-radius: 10px;
+  background-color: #d9d9d9;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+
+}
+.tache-3{
+   border: 1px solid forestgreen;
+   width: 700px;
+   height: 50px; 
+   margin: 15px;
+   border-radius: 10px;
+   background-color: #d9d9d9;
+   display: flex;
+   justify-content: space-between;
+   padding: 10px;
+  
+}
+.tache-4{
+  border: 1px solid forestgreen;
+  width: 700px;
+  height: 50px;  
+  margin: 15px;
+  border-radius: 10px;
+  background-color: #d9d9d9;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+
+}
+.span-check-box{
+    position: relative;
+    top: 8px;
+    right: 20px;
+    height: 1px;
+}
+.bi-arrow-right-circle{
+    font-size: 30px;
+    background-color: #b3b3b3;
+    padding: 10px;
+    border-radius: 100%;
+}
+.div-text{
+    position: relative;
+    left: 140px;
+    bottom: 90px;
+    flex-direction: column;
+}
+
+.bi-play-color-aqua{
+    color: #40fef3;
+    font-size: 29px;
+    position: relative;
+    top: 4px;
+}
+.thel-icons-play-fill{
+    font-size: 45px;
+    color: #40fef3;
+}
+.thel-icons-play-fill-meeting{
+    font-size: 45px;
+    color: red;
+}
+.works-name{
+    font-size: 25px;
+    position: relative;
+    bottom: 9px;
+    left: 40px;
+}
+.thel-icons-play-fill-consultation{
+    font-size: 45px;
+    color: #00fe55;
+}
+.border{
+    width: 100%;
+    height: 300px;
+}
+.img{
+    width: 100%;
+    z-index: 999;
+    height: 600px;
+    bottom: 300px;
+}
+.div-des-taches{
+    position: relative;
+    top: 320px;
+    left: 700px;
+}

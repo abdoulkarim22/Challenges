@@ -1,0 +1,246 @@
+.div-Card-Album{
+    width: 70%;
+    height: 900px;
+    justify-content: end;
+    display: flex;
+    margin-right: 300px;
+}
+.div-card{
+    display: grid;
+    gap: 20px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.div-photo{
+    position: absolute;
+    width: 950px;
+    border: 4px solid blue;
+    margin-right: 420px;
+    height: 690px;
+    border-radius: 25px;
+}
+.card-0ne{
+    border: 1px solid navy;
+    height: 160px;
+    width:  402px;
+    border-radius: 23px;
+    padding: 10px;
+    background-color: green;
+}
+.card-2{
+    border: 1px solid navy;
+    height: 160px;
+    width:  402px;
+    border-radius: 23px;
+    padding: 10px;
+    background-color: #0000ff;
+}
+.card-3{
+    border: 1px solid navy;
+    height: 160px;
+    width:  402px;
+    border-radius: 23px;
+    padding: 10px;
+    background-color: #0000ff;
+}
+.card-4{
+    border: 1px solid navy;
+    height: 160px;
+    width:  402px;
+    border-radius: 23px;
+    padding: 10px;
+    background-color: #0000ff;
+}
+.card-5{
+    border: 1px solid navy;
+    height: 160px;
+    width:  402px;
+    border-radius: 23px;
+    padding: 10px;
+    background-color: #0000ff;
+}
+.image{
+    width: 950px;
+    height: 690px;
+    border-radius: 20px;
+}
+.div-icons{
+    position: absolute;
+    top: 300px;
+    left: 349px;
+}
+.bi-play-circle{
+    font-size: 90px;
+    color: white;
+}
+.bi-fast-forward-circle{
+    font-size: 60px; 
+    margin-left: 20px;
+    color: white;
+}
+.bi-skip-backward-circle{
+    font-size: 60px; 
+    margin-right: 20px;
+    color: white; 
+}
+.icons-heart{
+    position: absolute;
+    font-size: 35px;
+    top: 619px;
+    left: 20px;
+}
+.player{
+    position: relative;
+    top: 708px;
+    left: 340px;
+}
+.body-bard{
+    width: 930px;
+    border-radius: 20px;
+    background-color: #d9d9d9;
+}
+.div-progress{
+    background-color: #0000ff;
+    width: 310px;
+    border-radius: 20px;
+    height: 20px;
+}
+.div-Time{
+    justify-content: space-between;
+    display: flex;
+    font-size: 20px;
+    font-weight: 800;
+}
+.bi-sliders2-vertical{
+font-size: 36px;
+margin-left: 20px;
+background-color: #0000ff;
+color: white;
+border-radius: 7px;
+}
+.bi-list-ol{
+    font-size: 36px;
+    margin-left: 20px;
+    background-color: #0000ff;
+    color: white;
+    border-radius: 7px; 
+}
+.div-base{
+    position: relative;
+    margin-top: 10px;
+    right: 20px;
+}
+.div-son{
+    position: absolute;
+    left: 800px;
+    bottom: 2px;
+}
+.bi-volume-up-fill{
+    font-size: 50px;
+    background-color: #0000ff;
+    color: white;
+    border-radius: 7px; 
+}
+.body-bard-volume{
+    position: absolute;
+    left: 60px;
+    bottom: 3px;
+    width: 82px;
+    height: 10px;
+    border-radius: 20px;
+    background-color: #d9d9d9;
+}
+.div-volume{
+    position: absolute;
+    background-color: #0000ff;
+    width: 60px;
+    border-radius: 20px;
+    height: 10px;
+}
+.card-image-album{
+    width: 200px;
+    height: 160px;
+    border-radius: 20px;
+}
+h4{
+    position: absolute;
+    left: 1660px;
+    bottom: 945px;
+    font-size: 30px;
+    color: white;
+}
+h1{
+    position: absolute;
+    left: 1660px;
+    bottom: 759px;
+    color: white;
+    font-size: 30px;  
+}
+h2{
+    position: absolute;
+    left: 1660px;
+    bottom: 554px;
+    font-size: 30px; 
+    color: white; 
+}
+h3{
+    position: absolute;
+    left: 1660px;
+    bottom: 350px;
+    font-size: 30px; 
+    color: white;  
+}
+h5{
+    position: absolute;
+    left: 1660px;
+    bottom: 126px;
+    font-size: 30px;  
+    color: white;
+}
+.span-album{
+    flex-direction: column;
+}
+.text-preche{
+    position: relative;
+    font-size: 30px; 
+    color: white;
+    margin-left: 60px;
+    bottom: 70px;
+}
+.play-next{
+    position: absolute;
+    top: 80px;
+    left: 1400px;
+    font-size: 70px;
+    color: white;
+}
+.play-next-2{
+    position: absolute;
+    top: 290px;
+    left: 1400px;
+    font-size: 70px;
+    color: white;
+}
+.play-next-3{
+    position: absolute;
+    top: 490px;
+    left: 1400px;
+    font-size: 70px;
+    color: white;
+}
+.play-next-4{
+    position: absolute;
+    top: 700px;
+    left: 1400px;
+    font-size: 70px;
+    color: white;
+}
+.play-next-5{
+    position: absolute;
+    top: 890px;
+    left: 1400px;
+    font-size: 70px;
+    color: white;
+}

@@ -1,0 +1,105 @@
+.container{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+.div-body{
+    border-radius: 20px;
+    padding: 30px;
+    background-color: #1f3540;
+    height: 600px;
+    width: 390px;
+}
+.carre{
+    height: 90px;
+    width: 80px; 
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(0,0,0);
+background: linear-gradient(0deg, rgba(0,0,0,1) 22%, rgba(27,118,210,1) 94%);
+}
+.div-carre{
+    justify-content: center;
+    display: flex;
+    padding: 10px;
+    gap: 30px;
+    position: relative;
+    top: 200px;
+}
+.bi-circle{
+  font-size: 50px;
+  color: #ffa700;
+  margin-bottom: 10px;
+}
+.bi-x-lg{
+    font-size: 50px;
+    color: red;
+}
+.border-1{
+    position: absolute;
+    width: 19.5%;
+    height: 200px;
+}
+.carre-2{
+    border: 2px solid black;
+    height: 95px;
+    width: 80px; 
+    border-radius: 19px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #d9d9d9;
+    margin-top: 10px;
+}
+.carre-3{
+    border: 2px solid black;
+    height: 95px;
+    width: 80px; 
+    border-radius: 19px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #d9d9d9;
+    margin-top: 10px;
+}
+.div-conte{
+ display: flex;
+ justify-content: space-evenly;
+}
+.leScore{
+    top: 70px;
+    position: relative;
+    font-size: 35px;
+    font-weight: 800;
+    color: white;
+}
+.div-return-icon{
+ justify-content: center;
+ display: flex;
+ margin-top: 20px;
+ font-size: 39px;
+}
+.div-return-icon-body{
+  background-color: #ffffff;
+  padding: 5px 5px 5px 5px;
+  border-radius: 7px;
+}
+.p1{
+    position: absolute;
+    left: 75px;
+    bottom: 95px;
+    font-size: 20px;
+    color: red;
+    font-weight: 900;
+}
+.me{
+    position: absolute;
+    left: 300px;
+    bottom: 95px;
+    font-size: 20px;
+    color: #ffa700;
+    font-weight: 900; 
+}

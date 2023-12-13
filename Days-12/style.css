@@ -1,0 +1,101 @@
+.container{
+ justify-content: center;
+ display: flex;
+ align-items: center;
+ height: 100vh;
+}
+.body-container{
+    border: 1px solid #0080ff;
+    height: 420px;
+    width: 700px;
+    box-shadow: #bfbfbf 6px 6px 6px 6px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.div-img-div-icons{
+    display: flex;
+    justify-content: space-between;
+}
+.div-img{
+    padding: 40px;
+}
+.name{
+    position: relative;
+    left: 70px;
+    padding: 10px;
+    font-weight: 800;
+    font-size: 18px;
+}
+.titre{
+    position: relative;
+   font-size: 15px;
+   font-weight: 400;
+   text-align: end;
+   margin-right: 410px; 
+   bottom: 10px;
+   color: #8b8b8b;
+}
+.text{
+    position: relative;
+    top: 10px;
+    font-weight: 500;
+    font-size: 22px;
+}
+.div-icons{
+    position: relative;
+    top: 31px;
+    right: 50px;
+}
+a{
+    text-decoration: none;
+    position: relative;
+    bottom: 7px;
+    color: #0080ff;
+}
+.heure-date{
+    font-size: 16px;
+    color: #707070;
+    position: relative;
+    bottom: 10px;
+}
+.div-desIcons{
+    border: 1px solid #8b8b8b;
+    height: 60px;
+    border-left: none;
+    border-right: none;
+    display: flex;
+    justify-content: space-between;
+    color: #8b8b8b;
+}
+.icons{
+    margin-top: 15px;
+}
+.bi-chat{
+    font-size: 30px;
+}
+.bi-arrow-repeat{
+    font-size: 30px;
+}
+.bi-heart{
+    font-size: 30px;
+}
+.bi-bookmark{
+    font-size: 30px;
+}
+.bi-share{
+    font-size: 30px;
+}
+.bi-three-dots{
+    font-size: 35px;
+    color: #8b8b8b;
+}
+.div-images{
+    position: absolute;
+    right: 1260px;
+    bottom: 620px;
+}
+.image{
+    width: 75px;
+    height: 75px;
+    border-radius: 100%;
+}  x
